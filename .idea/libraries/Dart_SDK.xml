@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="Dart SDK">
+    <CLASSES>
+      <root url="file://C:/tools/sdk/dart-sdk-2142/lib/async" />
+      <root url="file://C:/tools/sdk/dart-sdk-2142/lib/cli" />
+      <root url="file://C:/tools/sdk/dart-sdk-2142/lib/collection" />
+      <root url="file://C:/tools/sdk/dart-sdk-2142/lib/convert" />
+      <root url="file://C:/tools/sdk/dart-sdk-2142/lib/core" />
+      <root url="file://C:/tools/sdk/dart-sdk-2142/lib/developer" />
+      <root url="file://C:/tools/sdk/dart-sdk-2142/lib/ffi" />
+      <root url="file://C:/tools/sdk/dart-sdk-2142/lib/html" />
+      <root url="file://C:/tools/sdk/dart-sdk-2142/lib/indexed_db" />
+      <root url="file://C:/tools/sdk/dart-sdk-2142/lib/io" />
+      <root url="file://C:/tools/sdk/dart-sdk-2142/lib/isolate" />
+      <root url="file://C:/tools/sdk/dart-sdk-2142/lib/js" />
+      <root url="file://C:/tools/sdk/dart-sdk-2142/lib/js_util" />
+      <root url="file://C:/tools/sdk/dart-sdk-2142/lib/math" />
+      <root url="file://C:/tools/sdk/dart-sdk-2142/lib/mirrors" />
+      <root url="file://C:/tools/sdk/dart-sdk-2142/lib/svg" />
+      <root url="file://C:/tools/sdk/dart-sdk-2142/lib/typed_data" />
+      <root url="file://C:/tools/sdk/dart-sdk-2142/lib/web_audio" />
+      <root url="file://C:/tools/sdk/dart-sdk-2142/lib/web_gl" />
+      <root url="file://C:/tools/sdk/dart-sdk-2142/lib/web_sql" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
